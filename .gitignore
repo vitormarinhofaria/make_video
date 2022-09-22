@@ -1,0 +1,6 @@
+out
+build
+resources/frames/*
+builddir
+.vscode
+
