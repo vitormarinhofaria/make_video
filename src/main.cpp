@@ -1,5 +1,5 @@
-#include "pch.h"
-#include "shader.h"
+#include "pch.hpp"
+#include "shader.hpp"
 
 struct Transform
 {
